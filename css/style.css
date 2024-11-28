@@ -1,0 +1,26 @@
+body{
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+.sign-in .forma .boxtext{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.bar{
+    background: #24353f;
+    background-color: transparent !important;
+    color: #B6B6B6 !important;
+    border-color: #B6B6B6;
+}
+.bar::placeholder{
+    color: #B6B6B6 !important;
+}
+h1{
+    color: #17a2b8;
+}
+.hight{
+    height: 100vh;
+}
+.nav-bar{
+    background: #24353f;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
